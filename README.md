@@ -15,4 +15,4 @@ A responsive personal portfolio website built using HTML, CSS, and JavaScript.
 - JavaScript
 
 ## Live Demo
-[Click here](https://yourusername.github.io/portfolio/)
+[Click here](https://gangadhargangu6677-maker.github.io/Portfolio/)
